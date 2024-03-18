@@ -27,6 +27,7 @@ public class SwaggerConfig extends BaseSwaggerConfig{
                 .build();
     }
 
+
     @Bean
     public BeanPostProcessor springfoxHandlerProviderBeanPostProcessor() {
         return generateBeanPostProcessor();
