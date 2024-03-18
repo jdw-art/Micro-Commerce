@@ -13,5 +13,4 @@ public class MicroAuthApplication {
     public static void main(String[] args) {
         SpringApplication.run(MicroAuthApplication.class, args);
     }
-
 }
