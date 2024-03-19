@@ -73,7 +73,7 @@
                 <pattern>
                     <pattern>
                         {
-                        "project": "mall-swarm",
+                        "project": "micro-commerce",
                         "level": "%level",
                         "service": "${APP_NAME:-}",
                         "pid": "${PID:-}",
@@ -111,7 +111,7 @@
                 <pattern>
                     <pattern>
                         {
-                        "project": "mall-swarm",
+                        "project": "micro-commerce",
                         "level": "%level",
                         "service": "${APP_NAME:-}",
                         "pid": "${PID:-}",
@@ -144,7 +144,7 @@
                 <pattern>
                     <pattern>
                         {
-                        "project": "mall-swarm",
+                        "project": "micro-commerce",
                         "level": "%level",
                         "service": "${APP_NAME:-}",
                         "pid": "${PID:-}",
@@ -177,7 +177,7 @@
                 <pattern>
                     <pattern>
                         {
-                        "project": "mall-swarm",
+                        "project": "micro-commerce",
                         "level": "%level",
                         "service": "${APP_NAME:-}",
                         "class": "%logger",
