@@ -32,6 +32,7 @@ import java.util.List;
 @Configuration
 @EnableAuthorizationServer
 public class Oauth2ServerConfig extends AuthorizationServerConfigurerAdapter {
+
     private final PasswordEncoder passwordEncoder;
     private final UserServiceImpl userDetailsService;
     private final AuthenticationManager authenticationManager;
