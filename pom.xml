@@ -15,6 +15,7 @@
 		<module>micro-common</module>
 		<module>micro-mbg</module>
 		<module>micro-auth</module>
+		<module>micro-gateway</module>
 	</modules>
 
 	<parent>
