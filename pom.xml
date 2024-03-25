@@ -16,6 +16,7 @@
 		<module>micro-mbg</module>
 		<module>micro-auth</module>
 		<module>micro-gateway</module>
+		<module>micro-monitor</module>
 	</modules>
 
 	<parent>
