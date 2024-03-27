@@ -27,6 +27,7 @@ public class PmsBrandController {
     @Autowired
     private PmsBrandService brandService;
 
+
     @ApiOperation(value = "获取全部品牌列表")
     @RequestMapping(value = "/listAll", method = RequestMethod.GET)
     @ResponseBody
